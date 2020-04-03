@@ -13,9 +13,9 @@ A player will pilot a spaceship safely through a field of space junk. The longer
 - Linear and angular damping
 
 ## Demonstration
-To be done.
+What the game does when it's on device.
 </br>
-<!-- <p align="center">
+<p align="center">
 <img src="demo/space-race.gif" alt="Application demonstration"
 	title="Application demonstration" width="250" height="500" />
-</p> -->
+</p>
