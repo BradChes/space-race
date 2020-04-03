@@ -7,7 +7,10 @@
 A player will pilot a spaceship safely through a field of space junk. The longer they're alive the higher their score.
 
 ## Examples within this code
-To be done.
+- Per-pixel collision dectection
+- Advancing partical systems
+- Timer
+- Linear and angular damping
 
 ## Demonstration
 To be done.
