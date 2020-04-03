@@ -17,5 +17,5 @@ What the game does when it's on device.
 </br>
 <p align="center">
 <img src="demo/space-race.gif" alt="Application demonstration"
-	title="Application demonstration" width="250" height="500" />
+	title="Application demonstration" width="600" height="450" />
 </p>
